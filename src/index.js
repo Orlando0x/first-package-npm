@@ -2,6 +2,8 @@ const messages = [
     'oscar',
     'jose',
     'orlando',
+    'caroline',
+    'javier',
     'laura',
     'maria'
 ]
